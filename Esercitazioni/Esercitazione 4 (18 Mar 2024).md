@@ -5,3 +5,4 @@
 - [Domanda 4](../../../issues/22)
 - [Domanda 5](../../../issues/23)
 - [Domanda 6](../../../issues/24)
+- [Domanda 7](../../../issues/25)
