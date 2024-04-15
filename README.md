@@ -9,7 +9,7 @@
 5. [25 Mar 2024](/Esercitazioni/MZ/Esercitazione%205%20(25%20Mar%202024).md)
 6. [08 Apr 2024](/Esercitazioni/MZ/Esercitazione%206%20(8%20Apr%202024).md)
 
-## Esercitazioni AF
+## Esercitazioni AL
 1. [Esercitazione 1](/Esercitazioni/AF/Esercitazione1.md)
 2. [Esercitazione 2](/Esercitazioni/AF/Esercitazione2.md)
 3. [Esercitazione 3](/Esercitazioni/AF/Esercitazione3.md)
