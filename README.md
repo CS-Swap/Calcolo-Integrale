@@ -13,5 +13,4 @@
 1. [Esercitazione 1](/Esercitazioni/AF/Esercitazione1.md)
 2. [Esercitazione 2](/Esercitazioni/AF/Esercitazione2.md)
 3. [Esercitazione 3](/Esercitazioni/AF/Esercitazione3.md)
-4. [Esercitazione Esonero](/Esercitazioni/AF/EsercitazioneEsonero.md)
 
