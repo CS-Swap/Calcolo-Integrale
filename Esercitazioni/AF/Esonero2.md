@@ -1,7 +1,7 @@
 ## Domande
-- [Domanda 1](../../../../issues/)
-- [Domanda 2](../../../../issues/)
-- [Domanda 3](../../../../issues/)
+- [Domanda 1](../../../../issues/82)
+- [Domanda 2](../../../../issues/83)
+- [Domanda 3](../../../../issues/84)
 - [Domanda 4](../../../../issues/)
 - [Domanda 5](../../../../issues/)
 - [Domanda 6](../../../../issues/)
