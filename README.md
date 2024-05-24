@@ -14,4 +14,3 @@
 2. [Esercitazione 2](/Esercitazioni/AF/Esercitazione2.md)
 3. [Esercitazione 3](/Esercitazioni/AF/Esercitazione3.md)
 
-**[Esonero 2 AL](/Esercitazioni/AF/Esonero2.md)**
