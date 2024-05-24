@@ -1,1 +1,13 @@
-
+## Domande
+- [Domanda 1](../../../../issues/)
+- [Domanda 2](../../../../issues/)
+- [Domanda 3](../../../../issues/)
+- [Domanda 4](../../../../issues/)
+- [Domanda 5](../../../../issues/)
+- [Domanda 6](../../../../issues/)
+- [Domanda 7](../../../../issues/)
+- [Domanda 8](../../../../issues/)
+- [Domanda 9](../../../../issues/)
+- [Domanda 10](../../../../issues/)
+- [Domanda 11](../../../../issues/)
+- [Domanda 12](../../../../issues/)
